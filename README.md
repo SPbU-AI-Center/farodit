@@ -34,7 +34,3 @@ pip install -r requirements.txt
 ```
 ## Future Development
 Any contribution is welcome. Our R&D team is open for cooperation with other scientific teams as well as with industrial partners.
-## Contributors
-Ovanes Petrosian<br>
-Anna Golovkina<br>
-Darya Pashkova
