@@ -15,7 +15,7 @@ We aimed to create a platform that helps machine learning experts quickly and ea
 ### Evaluation
 * tools to evaluate the accuracy of the model on test data
 ## Technical specifications
-<img src="https://img.shields.io/badge/python-3.9-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>  <img src="https://img.shields.io/badge/TensorFlow-2.11-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3.9-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>  <img src="https://img.shields.io/badge/TensorFlow-2.15-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 - handles data of numeric types
 - is able to process data with different discreteness 
 - can work with a large number of features and measurements
