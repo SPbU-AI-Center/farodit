@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from datetime import datetime
-
+import os
 
 def plot(y_fit, lr_y_fit, y_pred, lr_y_pred, title, show_plot=True, save_plot=False):
     real = np.concatenate([y_fit, y_pred], axis=0)
@@ -15,6 +15,8 @@ def plot(y_fit, lr_y_fit, y_pred, lr_y_pred, title, show_plot=True, save_plot=Fa
     plt.title(title)
 
     if save_plot:
+        if not os.path.isdir('plots'):
+            os.makedirs('plots')
         timestamp = str(datetime.now().time()).replace(':', '.')
         plt.gcf().savefig('plots/' + timestamp + ' ' + title + '.jpg', bbox_inches='tight')
 
