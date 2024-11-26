@@ -1,5 +1,7 @@
 # FARODIT: Framework for Analysis and Prediction  on Data in Tables
 
+### The repository has been moved to https://git-pub.ai-center.online/ai-center/farodit
+
 FARODIT is a software that facilitates the development and integration of artificial intelligence technology components, including cloud solution process automation services aimed at modernization, acceleration and adaptation of AI algorithms in the direction of predictive analytics for the digital industry and beyond.
 ## Goal
 We aimed to create a platform that helps machine learning experts quickly and easily develop and test predictive analytics models based on tabular data. The framework provides easy access to data, a set of tools for data preprocessing, and the options for selecting machine learning algorithms and tuning model parameters to maximize predictive accuracy. In addition, the framework is extensible and open to integration with other tools and libraries to meet the needs of different users.
